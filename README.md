@@ -74,7 +74,7 @@ git clone https://github.com/cjL-hub-max/codex-stm32-embedded-maintainer-skill.g
 
 ```text
 使用 $stm32-freertos-simple-maintainer 为当前工程增加三种追踪模式：
-1 纯雷达，2 视觉加热成像，3 融合追踪。
+1 纯雷达，2 视觉与热成像，3 融合追踪。
 只使用一个模式变量，不新增大量宏和短函数，不猜测硬件配置。
 ```
 
