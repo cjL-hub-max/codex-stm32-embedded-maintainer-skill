@@ -1,0 +1,4 @@
+interface:
+  display_name: "STM32 FreeRTOS Simple Maintainer"
+  short_description: "Keep STM32 FreeRTOS projects simple, readable, hardware-grounded, and easy to hand off."
+  default_prompt: "Use $stm32-freertos-simple-maintainer to inspect and maintain this STM32CubeMX/STM32CubeIDE FreeRTOS project. Preserve portable peripheral and function modules, verify hardware from the repository, keep task shells thin, simplify business code, run available checks, and deliver the result in one pass."
